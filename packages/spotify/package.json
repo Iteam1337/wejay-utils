@@ -17,7 +17,7 @@
   "author": "believer <rickard.laurin@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "got": "10.6.0"
+    "got": "11.8.5"
   },
   "devDependencies": {
     "@iteam/eslint-config-iteam-node": "^0.1.0",
